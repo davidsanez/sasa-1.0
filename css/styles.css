@@ -20,10 +20,10 @@ nav a {
 body{
     background-image: url("file:///C:/Users/pablo/Downloads/foto");
 }
-h1{
-    text-align: center;
-    color: whitesmoke;
-}
 menu{
     height: 300px;
+}
+#titulo {
+    text-align: center;
+    color:white;
 }
